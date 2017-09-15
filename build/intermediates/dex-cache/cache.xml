@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/.android/build-cache/366e906049e4fe80a26713d5a39e2ba544c3abe4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5088aa0fa92642f0f032b7e535c24f9234589369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/.android/build-cache/fcec8d7a828c749e28976f1e4aa28301b3536d0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03c21fb599498e47173c0cfaf50dcf4c588c5b7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/.android/build-cache/e0e4a19b8a2940c7aee1f73d5f10f592652db32d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6417c8fa538239ec32f115a9106c383ee882a804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_4a2b67df8dc7e1f3ccfd23a4cf940fac84ae287f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6d0ab479d308a94a63bce943dd1b9575583af49">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_87af1ca3330385cdcd3417546eb3fb39bfe7b58b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/.android/build-cache/22b8e7c84b2bd2ee9caaf71be72fee57a761d72f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d52553da9837ac527decc7aaeda9fb0c8b5a7fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/.android/build-cache/4700de618e408c387d6531102888cbda45e2044e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34b81e2c8cef6948d98077715636d07e205e9d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/.android/build-cache/042dc01990f20e07dcf31332e9099558e15a6c99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_320af97d2658b3f41204c91cc3eeec0711ac2d7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/.android/build-cache/3a7a5a642773ea481167d2daafe8f2e50a83bb3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a54a17be925446d13e599e4b88629fb25081918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/.android/build-cache/3e4cfa0f04e5dac42bcb404c154227563555d213/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efc77a58b4d1a413d5d6013bc5b59019170b99b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/.android/build-cache/97259c743728c97be47df874d12040e9fc7ea35f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80a56eb9d8054f2d1077cf2877849bf3fd7c47e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/.android/build-cache/ce1dd49d6f3b25c1153dfd465e7b2068274af962/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2eb9f5c47b10206247af7313fa33d8f6760a9893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eec0218111504b9e082716c665173b091be31843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RobertSeccareccia/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/RobertSeccareccia/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_2637065ff2f325442f4a55bc579a17fe6b27763c/classes.dex" />
+    </item>
+
+</items>
